@@ -1,1 +1,1 @@
-Placeholder redirecting to [my new repo](https://github.com/JFronny/home)
+Placeholder redirecting to [my new repo](https://gitlab.com/JFronny/home)
